@@ -119,7 +119,7 @@ namespace projektDT071G
                         obj2.Datum = date2 + " " + time2;
 
 
-                        if (myAnswer2 !="Jojagog äror etottot lolitotetot sostotycockoke dodynonamomitot momasoskokeroradod sosomom dodocockokerorbobitot")
+                        if (myAnswer2 !="Jojagog äror etottot lolitotetot sostotycockoke dodynonamomitot momasoskokeroradod sosomom sosocockokerorbobitot")
                         {
                             Console.Write("Ajsiken! det blev fel. Spelet avklarades ej och du får ingen medeltitel.\nGå tillbaka till huvudmenyn för att se din status för spelet eller om du vill spela igen\nTryck enter");
                             Console.ReadLine();
